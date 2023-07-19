@@ -55,6 +55,23 @@
 <br>
 <br>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=NguyenNhatHuynh&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=NguyenNhatHuynh&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenNhatHuynh&show_icons=true" />
+</picture>
+
+
+<br>
+<br>
+<br> 
+
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
@@ -73,9 +90,6 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
-  </a>
   <a href="https://www.facebook.com/nguyennhathuynhxd/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nguyennhathuynh-facebook" />
   </a>
