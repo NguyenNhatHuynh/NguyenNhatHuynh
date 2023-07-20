@@ -1,12 +1,26 @@
+
+<!-- Header -->
 <div align="center">
    <h1>Hi👋 I'm Huynh.</h1>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Nicky+Huynh.;Nice+To+Meet+You;Enjoy+It+While+It+Lasts" alt="Typing SVG" /></a>
 </div>
-	
+<!-- Header -->
+<br>
+<br>
+
+
+<!-- Banner -->
+<div align=center> 
+<img src="https://media.licdn.com/dms/image/D5616AQFis3JpL7evqA/profile-displaybackgroundimage-shrink_350_1400/0/1675722739612?e=1695254400&v=beta&t=mEay7DSvBuToWDtz-RU3FPM_4O-pvP66uOpYiT5fFdQ" alt="Banner" title="Banner" height="100%"  width="100%"/>
+</div>
+<!-- Banner -->
+
 <br>
 <br>
 <br>
 
+
+<!-- Technologies and Tool -->
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -51,27 +65,19 @@
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
 
+<!-- Technologies and Tool -->
+
 <br>
 <br>
 <br>
 
-
+<!-- GitHub Stats -->
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=NguyenNhatHuynh&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=NguyenNhatHuynh&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenNhatHuynh&show_icons=true" />
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenNhhatHuynh&hide=contribs,prs)
 </div>
-
+<!-- GitHub Stats -->
 
 <br>
 <br>
