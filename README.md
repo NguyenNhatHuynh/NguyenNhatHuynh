@@ -24,7 +24,7 @@
    <br>
 - 🌱 I’m currently learning programming.
    <br>
-- 👨‍💻 My Web Personal Portfolio [https://nguyennhathuynh.github.io/portfolio/](https://nguyennhathuynh.github.io/portfolio/)
+- 👨‍💻 My Web Personal Portfolio [https://nguyennhathuynh.github.io/portfolio/]
    <br>
 - 📫 How to reach me **nguyenhuynh162003@gmail.com**
 </div>
