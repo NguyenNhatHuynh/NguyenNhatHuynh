@@ -9,9 +9,7 @@
 
 
 <!-- Banner -->
-<div align=center> 
-<img src="https://scontent.fsgn7-1.fna.fbcdn.net/v/t39.30808-1/387792294_362614382767164_289677941515888262_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5740b7&_nc_ohc=_7uzFqWVyQYAX9Oj_b5&_nc_ht=scontent.fsgn7-1.fna&oh=00_AfCUrrvLhmv9E5pJ-ekAsfzhGVzet2vhUJpBJxuNS9rFyw&oe=65AE8FCC" alt="Banner" title="Banner" height="400px"  width="400px"/>
-</div>
+
 <!-- Banner -->
 
 <br>
