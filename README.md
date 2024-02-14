@@ -125,7 +125,7 @@
 <br>
 
 <div align='center'>
-## <b>Thank You For Following Me ✨</b>
+## <b> ✨Thank You For Following Me ✨</b>
 </div>
 
 <br>
