@@ -8,7 +8,7 @@ I'm Huynh from Vietnam, and I develop mobile applications focusing on Flutter, I
 ### Platform
 * Flutter
 * React Native
-## Operating System
+### Operating System
 * IOS
 * Android
 ### Programming Language
