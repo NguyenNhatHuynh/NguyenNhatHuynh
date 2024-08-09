@@ -2,7 +2,7 @@
 
 <!-- https://git.io/typing-svg -->
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1000&pause=500&color=FF9999&vCenter=true&&multiline=true&random=false&width=1200&height=60&lines=Hey+friends!,+My+name+is+Huynh👋)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1000&pause=500&color=FF9999&vCenter=true&&multiline=true&random=false&width=1200&height=60&lines=Hey+friends!,+My+name+is+NickyHuynh👋)
 
 <!-- START GWhere to find me -->
 <h2 align="center">👽 Where to find me 👽</h2>
@@ -34,7 +34,7 @@
 <br>
 <div align="center"> 
 <p>"Enjoy it while it lasts"<p>
-<p>"Tặng thưởng nó trong khi nó đang diễn ra"<p>
+<p>"Tận hưởng nó trong khi nó đang diễn ra"<p>
 </div>
 
 <br>
