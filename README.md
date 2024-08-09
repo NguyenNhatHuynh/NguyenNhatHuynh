@@ -1,13 +1,15 @@
 
 
 <!-- https://git.io/typing-svg -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1000&pause=500&color=FF9999&vCenter=true&multiline=true&random=false&width=1200&height=60&lines=Hey+friends!,+My+name+is+Huynh👋)
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1000&pause=500&color=FF9999&vCenter=true&&multiline=true&random=false&width=1200&height=60&lines=Hey+friends!,+My+name+is+Huynh👋)
+
 <!-- START GWhere to find me -->
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/nguyennhathuynhxd/" target="blank">
+  <a href="https://www.facebook.com/nickyxoandev/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nguyennhathuynh-facebook" />
   </a>
   <a href="https://www.youtube.com/@xoandev" target="blank">
