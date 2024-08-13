@@ -20,7 +20,7 @@ I'm Huynh from Vietnam, and I develop mobile applications focusing on Flutter, I
 * UI/UX
   
 ## Profile
-<a href="https://www.linkedin.com/in/nguyen-nhat-huynh-xd](https://nguyennhathuynh.github.io/portfolio/" target="blank">
+<a href="https://nguyennhathuynh.github.io/portfolio/" target="blank">
     Profile Web
 </a>
 
