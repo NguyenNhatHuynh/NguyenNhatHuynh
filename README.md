@@ -35,9 +35,9 @@ I'm Huynh from Vietnam, and I develop mobile applications focusing on Flutter, I
   <a href="https://www.youtube.com/@xoandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="nguyennhathuynh-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/nguyen-nhat-huynh-xd" target="blank">
+<!--   <a href="https://www.linkedin.com/in/nguyen-nhat-huynh-xd" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="nguyennhathuynh-linkedin" />
-  </a>
+  </a> -->
 <!--   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nguyennhathuynh-instagram" />
   </a> -->
