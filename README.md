@@ -2,23 +2,41 @@
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1000&pause=500&color=FF9999&vCenter=true&&multiline=true&random=false&width=1200&height=60&lines=Hi+there!,+My+name+is+Nicky+Huynh👋)
 
-I'm Huynh from Vietnam, and I develop mobile applications focusing on Flutter, IOS, and Android. I really enjoy designing mobile interfaces and creating intuitive user experiences
+I'm Huynh from Vietnam, and I develop mobile applications focusing on Flutter, iOS, and Android. I really enjoy designing mobile interfaces and creating intuitive user experiences. In addition to mobile development, I'm expanding my skills in backend development, particularly with Java and the Spring Framework.
 
 ## Skills and Experience:
-### Platform
+### Platforms
 * Flutter
 * React Native
-### Operating System
-* IOS
+
+### Operating Systems
+* iOS
 * Android
-### Programming Language
-*  Dart
-*  Java
-*  Swift
-*  Kotlin
+
+### Programming Languages
+* Dart
+* Java
+* Swift
+* Kotlin
+
+### Backend Development
+* **Java (Spring Framework)**
+   * Spring Boot
+   * Spring MVC
+   * Spring Data JPA
+   * Spring Security
+   * Spring RESTful APIs
+   * Spring Cloud
+   * Spring Batch
+   * Spring Integration
+* **Java Servlets** – Handling HTTP requests and responses in Java web applications.
+* **Java MVC** – Implementing the Model-View-Controller architecture in Java web applications.
+* Databases (MySQL, PostgreSQL, MongoDB)
+* Web Services (SOAP, REST)
+
 ### Design
 * UI/UX
-  
+
 ## Profile
 <a href="https://nguyennhathuynh.github.io/portfolio/" target="blank">
   Personal Portfolio : Website Programmer Position
@@ -35,12 +53,6 @@ I'm Huynh from Vietnam, and I develop mobile applications focusing on Flutter, I
   <a href="https://www.youtube.com/@xoandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="nguyennhathuynh-youtube" />
   </a>
-<!--   <a href="https://www.linkedin.com/in/nguyen-nhat-huynh-xd" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="nguyennhathuynh-linkedin" />
-  </a> -->
-<!--   <a href="#" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nguyennhathuynh-instagram" />
-  </a> -->
   <a href="mailto:nguyenhuynh162003@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nguyennhathuynh-email" />
   </a>
@@ -63,10 +75,10 @@ I'm Huynh from Vietnam, and I develop mobile applications focusing on Flutter, I
 </div>
 <br>
 
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2 align="center">📑 My Favorite Quote 📑</h2>
 <br>
 <div align="center"> 
-<p>"Biết biển rộng được bao nhiêu nếu thuyền cứ mãi bám bờ"<p>
+<p>"Biết biển rộng được bao nhiêu nếu thuyền cứ mãi bám bờ"</p>
 </div>
 
 <br>
