@@ -20,19 +20,7 @@ I'm Huynh from Vietnam, and I develop mobile applications focusing on Flutter, i
 * Kotlin
 
 ### Backend Development
-* **Java (Spring Framework)**
-   * Spring Boot
-   * Spring MVC
-   * Spring Data JPA
-   * Spring Security
-   * Spring RESTful APIs
-   * Spring Cloud
-   * Spring Batch
-   * Spring Integration
-* **Java Servlets** – Handling HTTP requests and responses in Java web applications.
-* **Java MVC** – Implementing the Model-View-Controller architecture in Java web applications.
-* Databases (MySQL, PostgreSQL, MongoDB)
-* Web Services (SOAP, REST)
+* Java
 
 ### Design
 * UI/UX
