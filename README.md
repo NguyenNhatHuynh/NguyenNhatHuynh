@@ -35,6 +35,12 @@ Explore my latest creations and code journeys on GitHub [@NguyenNhatHuynh](https
 </div>
 <!-- END GWhere to find me -->
 
+<h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+<a href="#" target="_blank">
+  <img src="svg/xoandev-qoutes.svg" width="1200" height="150" alt="fromsunnews-quotes" />
+</a>
+
 ## Let’s Build Something Epic
 I’m always on the lookout for thrilling collab opportunities across web and mobile. Drop me a line, and let’s code the next big thing together!
 
